@@ -1,0 +1,6 @@
+vaderSentiment
+tweepy
+pandas
+matplotlib
+json
+python-decouple
